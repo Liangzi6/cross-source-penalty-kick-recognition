@@ -1,0 +1,11 @@
+python==3.12.14
+torch==2.14.0+cpu
+torchvision==0.29.0+cpu
+scikit-learn==1.9.1
+ultralytics==8.4.148
+numpy==2.5.3
+pandas==3.0.5
+matplotlib==3.10.8
+scipy==1.18.1
+Pillow==12.3.0
+joblib==1.6.0
