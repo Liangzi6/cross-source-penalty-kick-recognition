@@ -14,3 +14,9 @@ DATA_DICTIONARY.md — column descriptions for each data file
 requirements.txt — pinned software versions
 
 File Manifest.json — file checksums
+
+
+Materials are provided as zip archives:
+configs.zip — frozen protocol, class order, seed and environment settings
+src.zip — preprocessing, training, evaluation, statistics and plotting code
+data_derived.zip — de-identified features, folds, predictions and evidence workbook
